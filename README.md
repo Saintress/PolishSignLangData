@@ -1,6 +1,6 @@
 # PolishSignLangData
 
-<img>https://www.slownikpjm.uw.edu.pl/img/media/TABELA%20ZE%20ZNAKAMI_PL.jpg</img>
+![alt text](https://www.slownikpjm.uw.edu.pl/img/media/TABELA%20ZE%20ZNAKAMI_PL.jpg)
 
 PJM data labeled using YOLO
 
